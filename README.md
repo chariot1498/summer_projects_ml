@@ -12,3 +12,5 @@ These are some projects that i made during summers 2017
 5.Applying CNN on cifar-10 dataset . 
 
 6.Meta heurestic algorithms genetic algo and differential evolution algo.
+
+7.Text generation using Markov chains .

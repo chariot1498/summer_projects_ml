@@ -10,3 +10,5 @@ These are some projects that i made during summers 2017
 4.Autoencoder using convolutional NN and visualising their feature maps.
 
 5.Applying CNN on cifar-10 dataset . 
+
+6.Meta heurestic algorithms genetic algo and differential evolution algo.
